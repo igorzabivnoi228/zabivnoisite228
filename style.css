@@ -1,0 +1,336 @@
+body {
+	background-color:202022;
+	font-family: sans-serif;
+}
+
+.i1 {
+    width: 260px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.header1 {
+        background-color: #191919;
+        padding: 0.01px;
+        float: left;
+        width: 2000px;
+        height: 100px;
+        color: white;
+        text-align: left;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+		position: Fixed;
+}
+.header2 {      
+		float: left;
+        font-size: 20px;
+        text-align: center;
+        position: fixed;
+        top: 40px;
+        left: 900050px;
+        color: white;
+        font-family: Roboto;
+        font-style: Thin;
+        cursor: pointer;
+		position: Fixed;
+}
+.header3 {
+        float: left;
+        font-size: 20px;
+        text-align: center;
+        position: fixed;
+        top: 40px;
+        left: 1150px;
+        color: white;
+        font-family: Roboto;
+        font-style: Thin;
+        cursor: pointer;
+		position: Fixed;
+}
+.h1 {
+    margin-top: 140px;
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+}
+.h2 {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+}
+
+main p {
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 15px;
+}
+input {
+    border: solid #A8A8A8 1px;
+    border-radius: 4px;
+    width: 300px;
+    height: 55px;
+    background-color: #222222;
+    color:white;
+    padding-left: 10px;
+    margin-left: 200px;
+    float: left;
+}
+.b1 {
+    width: 55px;
+    height: 55px;
+    border-radius: 4px;
+    background-color: #95BF74;
+    border: solid #95BF74 1px;
+    margin-left: 15px;
+    float: left;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+    transition: background 0.25s, color 0.25s;
+}
+
+
+.b1:hover {
+  color: #ffffff;
+  background: #77995D;
+  border: solid #77995D 1px;
+}
+
+.form1 {
+    margin-top: 0px;
+    margin-left: -280px;
+    float: left;
+    width: 300px;
+	height: 55px;
+}
+.form2 {
+    margin-top: 75px;
+    margin-left: -300px;
+    float: left;
+    width: 300px;
+	height: 55px;
+}
+
+.b2 {
+    color: white;
+    width: 280px;
+    background-color: #95BF74;
+    border: solid #95BF74 1px;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: Regular;
+    font-size: 20px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.75rem 1.25rem;
+    transition: background 0.25s, color 0.25s;
+    margin-top: 170px;
+    margin-left: -300px;
+    float: left;
+	position: absolute;
+}
+
+.b2:hover {
+  color: #ffffff;
+  background: #77995D;
+  border: solid #77995D 1px;
+}
+
+
+.otpravit {
+    float: left;
+    margin-top: -55px;
+    margin-left: 300px;
+}
+
+.a1 {
+    font-size: 10px;
+    margin-left: -80px;
+    margin-top: 140px;
+	float: left;
+	font-style: Thin;
+	color: grey;
+}
+
+
+.picmo {
+	width: 350px;
+	height: 180px;'
+	float: left;
+	position: absolute;
+	margin-top: 400px;
+	margin-left: -1072px;
+	background-color: 202022;
+	color: white;
+	font-family: Roboto;
+    font-style: Regular;
+    font-size: 25px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.75rem 1.25rem;
+    transition: background 0.25s, color 0.25s;
+	position: absolute;
+	border: solid #202022 1px;
+	
+}
+
+.picmo:hover {
+  color: #ffffff;
+  background: #303033;
+  border: solid #303033 1px;
+}
+
+
+.apicmo {
+	margin-left: 0px;
+	position: absolute;
+	margin-left: -80px;
+	margin-top: -75px;
+	font-family: Roboto;
+	font-style: Regular;
+	border-bottom: solid grey 1px;
+}
+
+
+.ppicmo {
+	font-family: Roboto;
+	font-style: Thin;
+	font-size: 19px;
+	color: grey;
+	position: absolute;
+	text-align: left;
+	margin-top: -20px;
+	position: absolute;
+}
+
+.ipicmo {
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	margin-left: -150px;
+	margin-top: -75px;
+	
+}
+
+
+
+.picmo3 {
+	width: 350px;
+	height: 180px;'
+	float: left;
+	position: absolute;
+	margin-top: 400px;
+	margin-left: -272px;
+	background-color: 202022;
+	color: white;
+	font-family: Roboto;
+    font-style: Regular;
+    font-size: 25px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.75rem 1.25rem;
+    transition: background 0.25s, color 0.25s;
+	position: absolute;
+	border: solid #202022 1px;
+	
+}
+
+.picmo3:hover {
+  color: #ffffff;
+  background: #303033;
+  border: solid #303033 1px;
+}
+
+
+.apicmo3 {
+	margin-left: 0px;
+	position: absolute;
+	margin-left: -80px;
+	margin-top: -75px;
+	font-family: Roboto;
+	font-style: Regular;
+	border-bottom: solid grey 1px;
+}
+
+
+.ppicmo3 {
+	font-family: Roboto;
+	font-style: Thin;
+	font-size: 19px;
+	color: grey;
+	position: absolute;
+	text-align: left;
+	margin-top: -20px;
+	position: absolute;
+}
+
+.ipicmo3 {
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	margin-left: -150px;
+	margin-top: -75px;
+	
+}
+
+.picmo2 {
+	width: 350px;
+	height: 180px;'
+	float: left;
+	position: absolute;
+	margin-top: 400px;
+	margin-left: -672px;
+	background-color: 202022;
+	color: white;
+	font-family: Roboto;
+    font-style: Regular;
+    font-size: 25px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.75rem 1.25rem;
+    transition: background 0.25s, color 0.25s;
+	position: absolute;
+	border: solid #202022 1px;
+	
+}
+
+.picmo2:hover {
+  color: #ffffff;
+  background: #303033;
+  border: solid #303033 1px;
+}
+
+
+.apicmo2 {
+	margin-left: 0px;
+	position: absolute;
+	margin-left: -80px;
+	margin-top: -75px;
+	font-family: Roboto;
+	font-style: Regular;
+	border-bottom: solid grey 1px;
+}
+
+
+.ppicmo2 {
+	font-family: Roboto;
+	font-style: Thin;
+	font-size: 19px;
+	color: grey;
+	position: absolute;
+	text-align: left;
+	margin-top: -20px;
+	position: absolute;
+}
+
+.ipicmo2 {
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	margin-left: -150px;
+	margin-top: -75px;
+	
+}
